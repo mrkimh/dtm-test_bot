@@ -1,4 +1,4 @@
-const TOKEN = `5358446083:AAF0FxxdxJivuBQ5qOdzSwkJwr8vZxgiE-8`
+const TOKEN = `658194942:AAFhRG_DQHxypOzqizPpNIHkZ5E4tWZPVEY`
 
 const TelegramBot = require('node-telegram-bot-api');
 const Controllers = require('./controllers.js')
